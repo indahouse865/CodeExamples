@@ -1,4 +1,4 @@
-Code Examples
+###Code Examples
 These are examples of data structures, functions, personal projects, and code based off of projects from school.
 
 ## Installation
