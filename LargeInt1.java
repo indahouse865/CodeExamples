@@ -1,11 +1,5 @@
 
  
-
-
-import ch07.byteLists.SpecializedList;
-//import byteLists.*;
-
- 
 public class LargeInt1
 {
   private SpecializedList numbers;    // Holds digits
